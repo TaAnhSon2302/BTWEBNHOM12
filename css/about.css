@@ -1,0 +1,46 @@
+.about-section .section-heading {
+    margin-bottom: 40px;
+  }
+  
+  .about-section .section-heading p {
+    font-size: 18px;
+    margin-top: 15px;
+  }
+  
+  .about-section .btn {
+    margin-top: 10px;
+    margin-left: 25px;
+  }
+  
+  .about-section .heading-title {
+    margin-bottom: 30px;
+  }
+  
+  .about-text-block {
+    position: relative;
+    margin-bottom: 35px;
+    border-radius: 5px;
+    padding-left: 80px;
+    transition: .4s;
+  }
+  
+  .about-text-block i {
+    position: absolute;
+    left: 25px;
+    top: 5px;
+    font-size: 30px;
+    color: #FF4343;
+  }
+  
+  .about-text-block h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .about-text-block p {
+    margin-bottom: 0px;
+  }
+  
+  .heading-title {
+    font-size: 46px;
+  }

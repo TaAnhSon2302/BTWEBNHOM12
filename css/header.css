@@ -1,0 +1,75 @@
+.header-contact li, .header-socials li {
+    float: left;
+  }
+  
+  .header-socials {
+    display: inline-block;
+    vertical-align: middle;
+   
+  }
+  
+  .header-socials li {
+    padding: 0px 5px;
+    font-size: 12px;
+  }
+  
+  .header-socials li a {
+    color: #555;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #ddd;
+    display: inline-block;
+    border-radius: 100%;
+    padding-top: 7px;
+  }
+  
+  .header-socials li a:hover {
+    background: #333;
+    color: #fff;
+    border-color: #333;
+  }
+  
+  
+  .site-navigation {
+    border-bottom: 1px solid #eee;
+    padding: 12px 0px;
+  }
+  
+  .navbar {
+    padding: 0px;
+  }
+  
+  .navbar-nav .nav-link {
+    padding-left: 18px !important;
+    padding-right: 18px !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-size: 16px;
+    color: #111;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #FF4343;
+  }
+  
+  .navbar-nav .nav-link i {
+    margin-left: 5px;
+  }
+  
+  .navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    content: "";
+    vertical-align: middle;
+    background: no-repeat 50%;
+    background-size: 100% 100%;
+  }
+  
+  .header-white {
+    background: #fff;
+  }
+  
