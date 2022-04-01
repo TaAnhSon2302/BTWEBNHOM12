@@ -1,0 +1,32 @@
+.book-preview {
+    background: #413E65;
+  }
+  
+  .topic-item {
+    position: relative;
+    padding: 25px;
+    background: #fff;
+    margin-bottom: 20px;
+    border-radius: 9px;
+  }
+  
+  .topic-item .icon-box {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background: #5454DC;
+    color: #fff;
+    border-radius: 100%;
+    padding-top: 10px;
+    overflow: hidden;
+    position: absolute;
+  }
+  
+  .topic-item .topic-content {
+    padding-left: 80px;
+  }
+  
+  .topic-item .topic-content h4 {
+    margin-bottom: 10px;
+  }
+  

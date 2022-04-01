@@ -1,0 +1,31 @@
+.chapter-section {
+    padding-bottom: 60px;
+  }
+  
+  .chapter-item {
+    margin-bottom: 45px;
+    margin-left:0;
+  }
+  
+  .chapter-item h4 {
+    margin-bottom: 15px;
+    font-size: 22px;
+    color: #222;
+  }
+  
+  .chapter-item h4 span {
+    color: #777;
+    display: block;
+    font-size: 16px;
+  }
+  
+  .fw-700 {
+    font-weight: 700;
+  }
+  
+  .chapter-list {
+    border-right: 1px solid #eee;
+    padding-right: 100px;
+    padding-left: 100px;
+  }
+  
