@@ -1,0 +1,26 @@
+.cta-inner {
+    text-align: center;
+    padding: 70px 20px;
+    position: relative;
+    border-radius: 20px;
+    background: #222;
+  }
+  
+  .cta-inner .subheading2, .cta-inner h2 {
+    color: #fff;
+  }
+  
+  .cta-inner .subsribe {
+    margin-top: 30px;
+  }
+  
+  .cta-inner .form-control {
+    height: 60px;
+    background: #fff;
+  }
+  
+  .cta-inner p {
+    color: #fff;
+    margin-top: 20px;
+    padding: 0px 30px;
+  }

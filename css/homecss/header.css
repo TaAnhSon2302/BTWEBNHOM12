@@ -37,7 +37,8 @@
   }
   
   .navbar {
-    padding: 0px;
+    padding:0px;
+    overflow: hidden;
   }
   
   .navbar-nav .nav-link {
@@ -72,4 +73,10 @@
   .header-white {
     background: #fff;
   }
-  
+  .sticky {
+    position: fixed;
+    width: 100%;
+  }
+.sticky + .banner-content {
+    padding-top: 60px;
+  }
