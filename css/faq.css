@@ -1,0 +1,44 @@
+
+.panel-group .panel {
+    border-radius: 0;
+    box-shadow: none;
+  }
+  
+  .panel-default > .panel-heading {
+    padding: 0;
+    border-radius: 0;
+    color: #212121;
+  }
+  
+  .panel-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+    background: #fff;
+    border-radius: 45px;
+    padding-left: 15px;
+    font-weight: 400;
+  }
+  
+  .panel-title > a {
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+  }
+  
+  
+  .panel-default > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color: #EEEEEE;
+  }
+  
+  .panel-body {
+    padding: 20px;
+  }
+  
+  .section-author {
+    padding-bottom: 250px;
+  }
+  
+  .section-cta {
+    margin-top: -120px; 
+   }
+  

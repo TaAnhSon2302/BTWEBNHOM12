@@ -1,0 +1,50 @@
+.pricing-item {
+    text-align: center;
+    padding: 45px 35px;
+    background: #fff;
+  }
+  
+  .pricing-item.popular {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+  }
+  
+  .pricing-item.popular:before {
+    position: absolute;
+    content: "";
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 90%;
+    height: 6px;
+    background: #ddd;
+    margin: 0 auto;
+  }
+  
+  .pricing-item .price h3 {
+    font-size: 60px;
+  }
+  
+  .pricing-item .price p {
+    color: #5454DC;
+  }
+  
+  .pricing-item .pricing-footer {
+    padding-top: 20px;
+  }
+  
+  .pricing-item .pricing-features {
+    text-align: left;
+    margin: 30px 0px 20px;
+    line-height: 40px;
+    text-transform: capitalize;
+  }
+  
+  .pricing-item .pricing-features i {
+    margin-right: 15px;
+    color: #666;
+    font-size: 8px;
+    margin-top: -5px;
+  }
+  
